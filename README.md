@@ -12,42 +12,6 @@ Welcome to the E-commerce Website project! This application is designed to showc
 
 - **React Class-Based Components:** The project uses class-based components in React, showcasing different component lifecycles and state management techniques.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-
-1. Fork and clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/E-commerce-website-using-React-Redux.git
-   ```
-2. Install the required dependencies:
-   
-   ```bash
-   cd E-commerce-website-using-React-Redux
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm start
-   ```
-
-4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser. The page reloads when you make changes.
-   
-You may also see any lint errors in the console.
-
-## Scripts
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ##  Snapshot 
 
